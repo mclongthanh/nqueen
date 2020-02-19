@@ -1,0 +1,2 @@
+# nqueen
+n-Queens' puzzle
